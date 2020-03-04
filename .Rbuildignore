@@ -1,0 +1,5 @@
+^extdata$
+^doc$
+^Meta$
+^.*\.Rproj$
+^\.Rproj\.user$
